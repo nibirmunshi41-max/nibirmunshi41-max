@@ -107,14 +107,17 @@ A sample business research project covering market research, business analysis, 
 - Business Research
 - Financial Reporting
 - Business Development
-
+  
 ## 📫 Contact
 
 **Email:** nibirmunshi41@gmail.com
 
+**Phone:** +8801307467775
+
 **LinkedIn:** [Md Mahtab Uddin](https://www.linkedin.com/in/md-mahtab-uddin-865848438)
 
 I am available for freelance, project-based and ongoing professional support in Finance & Accounting, Excel & Data Management, Office Administration and Business Analysis.
+
 
 ---
 
