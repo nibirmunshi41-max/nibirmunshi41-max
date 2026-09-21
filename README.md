@@ -1,6 +1,6 @@
 # Md Mahtab Uddin
 
-### Finance & Accounts Professional | Business Operations | Office Administration | Data Analysis | supply chain management 
+### Finance & Accounts Professional | Business Operations | Office Administration | Data Analysis | Supply Chain Management 
 
 Welcome to my professional portfolio.
 
