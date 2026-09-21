@@ -1,12 +1,12 @@
 # Md Mahtab Uddin
 
-### Finance & Accounts Professional | Business Operations | Office Administration | Data Analysis
+### Finance & Accounts Professional | Business Operations | Office Administration | Data Analysis | supply chain management 
 
 Welcome to my professional portfolio.
 
 I am a detail-oriented and adaptable professional with experience in Finance & Accounts, Office Administration, Operations, and Business Development.
 
-My professional experience includes financial transactions, accounting records, invoicing, accounts payable and receivable, bank reconciliation, financial documentation, data entry, MS Excel, client relationship management, market research, merchant acquisition, office operations, reporting, and administrative support.
+My professional experience includes financial transactions, accounting records, invoicing, accounts payable and receivable, bank reconciliation, financial documentation, data entry, MS Excel, client relationship management, market research, merchant acquisition, office operations, reporting, supply chain management and administrative support.
 
 I am committed to accuracy, efficiency, organized work, professional communication, and continuous professional growth.
 
@@ -14,7 +14,7 @@ I am committed to accuracy, efficiency, organized work, professional communicati
 
 ## 👨‍💼 Professional Summary
 
-Finance & Accounts professional with practical experience in financial transactions, accounting records, invoicing, accounts payable and receivable, bank reconciliation, financial reporting, documentation, VAT, tax, payroll and budgeting support.
+Finance & Accounts professional with practical experience in financial transactions, accounting records, invoicing, accounts payable and receivable, bank reconciliation, financial reporting, documentation, VAT, tax, supply chain management, payroll and budgeting support.
 
 I also have professional experience in office administration, business operations, client relationship management, market research, merchant acquisition, data management and business development.
 
@@ -131,6 +131,7 @@ My goal is to provide reliable and organized support in Finance & Accounting, Bu
 - Project Management
 - Document Management
 - Executive Management
+- supply chain management 
 
 ### Data & Research
 
