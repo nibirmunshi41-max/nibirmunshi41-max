@@ -75,7 +75,7 @@ My goal is to provide reliable and organized support in Finance & Accounting, Bu
 **Govt. Titumir College — Dhaka, Bangladesh**  
 **2026 | GPA: 2.96**
 
-### BSS Honours – Social Work
+### BSS – Bachelor of Social Work
 **Govt. Titumir College — Dhaka, Bangladesh**  
 **2025 | GPA: 3.00**
 
